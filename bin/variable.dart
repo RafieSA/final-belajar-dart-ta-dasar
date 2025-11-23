@@ -1,4 +1,5 @@
 void main() {
+  // This is variable.
   var name = 'Rafie';
 
   print(name);
