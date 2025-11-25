@@ -13,4 +13,12 @@ void main() {
   // chapter karakter backslash (\)
   var text = 'this is \'dart\' \$cool';
   print(text);
+
+  // chapter menggabungkan string
+  var name1 = firstName + " " +lastName;
+  var name2 = 'Rafie' ' Safaraz' ' Aribowo';
+
+  print(name1);
+  print(name2);
+
 }
